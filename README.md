@@ -4,10 +4,15 @@ This project is a simple yet effective tool that allows users to determine the p
 
 This tool can be useful for cybersecurity professionals, network administrators, or anyone interested in understanding the geographical distribution of IP traffic.
 
-Key Features:
+**Key Features:**
 
 Easy-to-use interface for entering and searching IP addresses.
+
 Accurate geolocation results.
+
 Display of essential geographical details including city, country, and coordinates.
+
 Lightweight and quick to deploy.
+
+
 This project is hosted on GitHub and is open for contributions, improvements, or suggestions. Feel free to explore, use, and enhance it!
